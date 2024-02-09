@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ZenControl</string>
+    <string name="app_button_text">Button that does nothing</string>
+</resources>
